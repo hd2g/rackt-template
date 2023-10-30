@@ -11,6 +11,10 @@
   ```
 
 ## Links
-[Rackt][Rackt]
+- [Racket][Racket]
+- [RacketScript][RacketScript]
+- [Rackt][Rackt]
 
+[Racket]: https://github.com/racket/racket
 [Rackt]: https://github.com/rackt-org/rackt
+[RacketScript]: https://github.com/racketscript/racketscript
